@@ -1,4 +1,4 @@
-package multithreading;
+package com.msharma84.multithreading;
 
 public class ThreadExample8 extends Thread {
 	

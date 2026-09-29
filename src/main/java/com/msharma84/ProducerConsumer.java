@@ -1,4 +1,4 @@
-package multithreading;
+package com.msharma84;
 
 import java.util.LinkedList;
 import java.util.Queue;

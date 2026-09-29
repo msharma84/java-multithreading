@@ -1,4 +1,4 @@
-package multithreading.executor;
+package com.msharma84.multithreading.executor;
 
 import java.util.Arrays;
 import java.util.List;

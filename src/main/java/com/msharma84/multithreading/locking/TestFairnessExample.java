@@ -1,4 +1,4 @@
-package multithreading.locking;
+package com.msharma84.multithreading.locking;
 
 public class TestFairnessExample {
 

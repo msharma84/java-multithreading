@@ -1,4 +1,4 @@
-package multithreading.locking;
+package com.msharma84.multithreading.locking;
 
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReadWriteLock;

@@ -1,4 +1,4 @@
-package multithreading;
+package com.msharma84.multithreading;
 
 import java.util.List;
 import java.util.Random;

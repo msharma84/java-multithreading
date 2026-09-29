@@ -1,4 +1,4 @@
-package multithreading.completablefuture;
+package com.msharma84.multithreading.completablefuture;
 
 import java.io.IOException;
 import java.nio.file.Files;

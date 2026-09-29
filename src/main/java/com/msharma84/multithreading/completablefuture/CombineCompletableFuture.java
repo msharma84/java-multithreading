@@ -1,4 +1,4 @@
-package multithreading.completablefuture;
+package com.msharma84.multithreading.completablefuture;
 
 import java.util.StringJoiner;
 import java.util.concurrent.CompletableFuture;

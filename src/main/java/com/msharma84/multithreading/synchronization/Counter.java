@@ -1,4 +1,4 @@
-package multithreading.synchronization;
+package com.msharma84.multithreading.synchronization;
 
 public class Counter {
 
